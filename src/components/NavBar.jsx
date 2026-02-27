@@ -7,7 +7,7 @@ const NavBar = () => {
             <div className="navbar-brand">
                 <Link to='/'>Movie App</Link>
             </div>
-            <div className="navbar-links">
+            <div className="navbar-links"> 
                 <Link to='/' className='nav-link'>Home</Link>
                 <Link to='/Favourites' className='nav-link'>Favourites</Link>
             </div>
